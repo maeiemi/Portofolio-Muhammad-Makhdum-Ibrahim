@@ -1,0 +1,39 @@
+/* HOME */
+#home {
+    padding-top: 5rem;
+    background-color: #c9e1f8;
+}
+
+
+/* ABOUT */
+#about {
+    padding-top: 5rem;
+    background-color: #edf6ff;
+}
+
+
+/* PROJECT */
+#project {
+    padding-top: 5rem;
+    background-color: #c9e1f8;
+}
+
+
+/* CONTACT */
+#contact {
+    padding-top: 5rem;
+    background-color: #edf6ff;
+}
+
+
+/* Jarak antar section */
+section {
+    min-height: 500px;
+}
+
+
+/* Ukuran gambar project */
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
